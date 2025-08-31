@@ -8,65 +8,61 @@ editor: markdown
 dateCreated: 2022-11-27T13:09:18.246Z
 ---
 
-# IDR Implementation reports 
+## IDR Implementation reports
 
 ## Implementation reports for drafts at IESG
+
 - [draft-ietf-idr-bgp-ls-flex-algo implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgp-ls-flex-algo-implement)
 - [draft-ietf-idr-bgpls-srv6-ext implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgpls-srv6-ext-implement)
 - [draft-ietf-idr-RFC7752bis implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-RFC7752bis-implement)
-- [draft-ietf-idr-segment-routing-te-policy implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement) 
+- [draft-ietf-idr-segment-routing-te-policy implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-segment-routing-te-policy-implement)
 - [draft-ietf-idr-wide-bgp-communities implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-wide-bgp-communities-implement)
 - [draft-ietf-idr-rpd implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-rpd-implement)
 - [draft-ietf-idr-bfd-subcode](/group/idr/BGP-Implementation-report/draft-ietf-idr-bfd-subcode=implement)
 
+## Implementation reports for drafts finished WG LC
 
-## Implementation reports for drafts finished WG LC 
+### Past WG LC + 2 implementations
 
-### Past WG LC + 2 implementations 
-- [draft-ietf-idr-long-lived-gr](/group/idr/BGP-Implementation-report/draft-ietf-idr-long-lived-gr-implement)
+- [draft-ietf-idr-long-lived-gr][def]
 
+### Past WG LC + awaiting 2 implementations
 
-### Past WG LC + awaiting 2 implementations 
 - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit-02)
 
-### Past WG LC + awaiting 2 implementations (timing out) 
+### Past WG LC + awaiting 2 implementations (timing out)
+
 - [draft-ietf-idr-bgp-ls-node-admin-tag-extension](/group/idr/implementations/draft-ietf-idr-bgp-ls-node-admin-tag-extension-01)
+- [draft-ietf-idr-route-oscillation-stop implementations][def2]
 
-- [draft-ietf-idr-route-oscillation-stop implementations](/group/idr/implementations/draft-ietf-idr-route-oscillation-stop)
+## Contacto
 
-
-## WG LC pending 
-
-- [draft-ietf-idr-bgp-bestpath-selection-criteria implementations](/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria)
-- [draft-ietf-idr-entropy-label implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-entropy-label)
+¿Tienes dudas o comentarios? Contáctame en el link de arriba.
 
 ## Implementation reports for IDR RFCs
-### IDR functions  
+
+### IDR functions
+
 - [draft-ietf-idr-add-path implementations](/group/idr/implementations/draft-ietf-idr-add-paths)
-- [draft-ietf-idr-as-migration implementations](/group/idr/implementations/draft-ietf-idr-as-migration)
+- [draft-ietf-idr-as-migration implementations][def3]
 - [draft-ietf-idr-large-community implementations](/group/idr/implementations/draft-ietf-idr-large-community)
 - [draft-ietf-idr-bgp-gr-notification implementations](/group/idr/implementations/draft-ietf-idr-bgp-gr-notification)
-- [draft-ietf-idr-te-pm-bgp implementations](/group/idr/implementations/draft-ietf-idr-te-pm-bgp) 
+- [draft-ietf-idr-te-pm-bgp implementations](/group/idr/implementations/draft-ietf-idr-te-pm-bgp)
 - [draft-ietf-idr-bgp-extended-implementations](/group/idr/implementations/draft-ietf-idr-bgp-extended)
-
 - [draft-ietf-idr-bgp-extended-messages](/group/idr/implementations/draft-ietf-idr-bgp-extended-implementations)
 
-### Route Servers 
-- [draft-ietf-idr-ix-bgp-route-server implementations](/group/idr/implementations/draft-ietf-idr-ix-bgp-route-server)
+## Route Servers
+
+- [draft-ietf-idr-ix-bgp-route-server implementations][def4]
 
 ### BGP-LS related implementation reports
+
+- [draft-ietf-idr-bgp-ls-segment-routing-ext-implementations](/group/idr/implementations/draft-ietf-idr-bgp-ls-segment-routing-ext)
 - [draft-ietf-idr-bgp-ls-segment-routing-ext-implementations](/group/idr/implementations/draft-ietf-idr-bgp-ls-segment-routing-ext)
 - [draft-ietf-idr-ls-distribution implementations](/group/idr/implementations/draft-ietf-idr-ls-distribution)
-
 - [draft-ietf-idr-bgpls-segment-routing-epe](/group/idr/implementations/draft-ietf-idr-bgpls-segment-routing-epe)
-
 - [draft-ietf-idr-bgp-prefix-sid implementations](/group/idr/implementations/draft-ietf-idr-bgp-prefix-sid)
-
-### BGP-LS related implementation reports 
-
-
 - [draft-ietf-rfc5575bis implementations](/group/idr/implementations/draft-ietf-rfc5575bis)
-- [draft-ietf-idr-flow-spec-v6 implementations](/group/idr/implementations/draft-ietf-idr-flow-spec-v6)
 - [draft-ietf-idr-tunnel-encaps implementations](/group/idr/implementations/draft-ietf-idr-tunnel-encaps)
 - [draft-ietf-idr-bgp-ls-segment-routing-msd implementations](/group/idr/implementations/draft-ietf-idr-bgp-ls-segment-routing-msd)
 - [draft-ietf-idr-rfc8203bis](/group/idr/implementations/draft-ietf-idr-rfc8203bis)
@@ -77,3 +73,8 @@ dateCreated: 2022-11-27T13:09:18.246Z
 - [draft-ietf-idr-bgp-ls-app-specific-attr implementations](/group/idr/implementations/draft-ietf-idr-bgp-ls-app-specific-attr)
 - [draft-ietf-idr-bgp-ls-sbfd-extensions implementations](/group/idr/implementations/draft-ietf-idr-bgp-ls-sbfd-extensions)
 - [draft-ietf-idr-bgp-open-policy](/group/idr/implementations/draft-ietf-idr-bgp-open-policy)
+
+[def]: /group/idr/BGP-Implementation-report/draft-ietf-idr-long-lived-gr-implement
+[def2]: /group/idr/implementations/draft-ietf-idr-route-oscillation-stop
+[def3]: /group/idr/implementations/draft-ietf-idr-as-migration
+[def4]: /group/idr/implementations/draft-ietf-idr-ix-bgp-route-server
